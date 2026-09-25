@@ -1,0 +1,23 @@
+[
+  {
+    "transactionId": "OK-1",
+    "customerId": "C-100",
+    "amount": 125.5,
+    "transactionDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "transactionId": "OK-2",
+    "customerId": "C-100",
+    "amount": 0.0001,
+    "transactionDate": "2024-02-29",
+    "status": "Pending"
+  },
+  {
+    "transactionId": "OK-3",
+    "customerId": "C-100",
+    "amount": 999.99,
+    "transactionDate": "2026-12-31",
+    "status": "Completed"
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "transactionId": "TX-1001",
+    "customerId": "C-100",
+    "amount": 125.50,
+    "transactionDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "customerId": "C-100",
+    "amount": 125.50,
+    "transactionDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "transactionId": "TX-1003",
+    "amount": 125.50,
+    "transactionDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "transactionId": "TX-1004",
+    "customerId": "C-100",
+    "amount": 0,
+    "transactionDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "transactionId": "TX-1005",
+    "customerId": "C-100",
+    "amount": 125.50,
+    "transactionDate": "2026-02-30",
+    "status": "Pending"
+  },
+  {
+    "transactionId": "FAIL-1006",
+    "customerId": "C-100",
+    "amount": 125.50,
+    "transactionDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "transactionId": "TX-1007",
+    "customerId": "C-100",
+    "amount": "not-a-number",
+    "transactionDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "transactionId": "TX-1008",
+    "customerId": "C-100",
+    "amount": 0.01,
+    "transactionDate": "2024-02-29",
+    "status": "Pending"
+  },
+  {
+    "transactionId": "FAIL-1009",
+    "customerId": "C-100",
+    "amount": 125.50,
+    "transactionDate": "2026-09-23",
+    "status": "Pending"
+  },
+  {
+    "transactionId": "TX-1010",
+    "customerId": "C-100",
+    "amount": 75,
+    "transactionDate": "2026-09-23",
+    "status": "Reviewed"
+  }
+]
